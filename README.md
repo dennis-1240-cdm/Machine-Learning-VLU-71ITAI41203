@@ -1,44 +1,4 @@
 # Machine-Learning-VLU-71ITAI41203
 # Lab 1:
-<!DOCTYPE html>
-<html>
-<head>
-<title>Machine_Learning VLU</title>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-</head>
-<body>
 
-<h1>Họ Tên: Nguyễn Minh Phúc</h1>
-<p>Mssv: 2274802010683</p>
-<p><a href="https://github.com/dennis-1240-cdm/Machine-Learning-VLU-71ITAI41203">Link project github của mình</a></p>
-
-<p>"Choose File" button to upload a picture:</p>
-
-<script type="text/javascript">
-  window.addEventListener('load', function() {
-    document.querySelector('input[type="file"]').addEventListener('change', function() {
-        if (this.files && this.files[0]) {
-            var img = document.querySelector('img');
-            img.onload = () => {
-                URL.revokeObjectURL(img.src);  // no longer needed, free memory
-            }
-  
-            img.src = URL.createObjectURL(this.files[0]); // set src to blob url
-        }
-    });
-  });
-  
-  </script>
-  
-  
-<input type='file' />
-<br><img id="myImg" src="#">
-
-
-
-</body>
-
-
-
-</html>
-
+<img width="1197" alt="Screenshot 2024-09-17 at 21 49 56" src="https://github.com/user-attachments/assets/7d8707b3-fbdf-4264-ae34-c94b7837cd45">
