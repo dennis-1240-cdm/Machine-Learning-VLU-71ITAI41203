@@ -7,7 +7,7 @@
 <img width="1438" alt="Screenshot 2024-09-17 at 21 51 44" src="https://github.com/user-attachments/assets/6d456507-a4ed-4df3-a611-8a58cd749e63">
 
 
-# Lab 2:
+# Lab 2: (file code nằm trong lab2.ipynb)
 
 # Câu 1:
 <img width="1382" alt="Screenshot 2024-09-22 at 18 58 20" src="https://github.com/user-attachments/assets/4e0afa86-31c0-46d8-9752-b524c5b194f5">
