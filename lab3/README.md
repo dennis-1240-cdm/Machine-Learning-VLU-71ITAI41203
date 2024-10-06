@@ -57,4 +57,8 @@ KNN được sử dụng:
 - Min-max scaling: Chuyển hóa các biến về khoảng giá trị [0, 1]
 
 3. Kết quả
+<img width="834" alt="Screenshot 2024-10-06 at 21 21 06" src="https://github.com/user-attachments/assets/12ddb97e-efae-427e-ab21-adb92e02c750">
+
+<img width="834" alt="Screenshot 2024-10-06 at 21 21 26" src="https://github.com/user-attachments/assets/a84b64fb-2870-45c7-87d1-a36bdc05cd51">
+
 
