@@ -11,7 +11,7 @@
 <img width="949" alt="Screenshot 2024-10-06 at 21 59 30" src="https://github.com/user-attachments/assets/b94e382b-28ab-43aa-86bb-a0071179e079">
 
 
-4 So sánh 2 kết quả
+4. So sánh 2 kết quả
 
 Ta thấy được thuật toán Bernoulli Naive Bayes cho ra tỉ lệ là 0.54 trong khi thuật toán Multinomial Naive Bayes là 0.63
 
