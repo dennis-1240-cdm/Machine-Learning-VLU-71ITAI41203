@@ -21,6 +21,7 @@ KNN cơ bản:
 <img width="284" alt="Screenshot 2024-10-06 at 21 02 56" src="https://github.com/user-attachments/assets/c0232ead-f7af-48dc-ad73-8b6608aacadb">
 
 
+
 # Câu 2: KNN_BT1
 
 1. Công Nghệ Sử Dụng
@@ -36,6 +37,9 @@ KNN được sử dụng:
 - One-Hot Encoding: Các đoạn văn bản được chuyển đổi thành Bag of Words và sau đó đếm tần số từ, sau đó tạo ra một ma trận tần suất 
 
 3. Kết quả
+<img width="804" alt="Screenshot 2024-10-06 at 21 11 40" src="https://github.com/user-attachments/assets/9858f98d-b650-4ab9-ad83-81ca2e8eee55">
+
+<img width="804" alt="Screenshot 2024-10-06 at 21 12 18" src="https://github.com/user-attachments/assets/2d770d55-c1bd-478c-b6be-09bcc288cb41">
 
 
 # Câu 3: KNN_BT2
