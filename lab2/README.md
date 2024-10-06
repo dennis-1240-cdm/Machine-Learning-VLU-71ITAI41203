@@ -11,7 +11,7 @@
 
 
 4 So sánh 2 kết quả
-<img width="1198" alt="Screenshot 2024-09-27 at 19 24 10" src="https://github.com/user-attachments/assets/61144932-ab5c-4863-96eb-2f06db8f404a">
+
 Ta thấy được thuật toán Bernoulli Naive Bayes cho ra tỉ lệ là 0.54 trong khi thuật toán Multinomial Naive Bayes là 0.63
 
 
@@ -23,4 +23,6 @@ Ta thấy được thuật toán Bernoulli Naive Bayes cho ra tỉ lệ là 0.54
 - Gaussian Naive Bayes: Để mô hình hóa các đặc trưng liên tục như Age và Na_to_K, từ đó tính toán xác suất hậu nghiệm cho các loại thuốc và đưa ra dự đoán cuối cùng.
 
 3. Kết quả
+
+<img width="949" alt="Screenshot 2024-10-06 at 21 57 00" src="https://github.com/user-attachments/assets/7bb7bb7c-ea18-4a20-92b8-a4bfc8c10d69">
 
