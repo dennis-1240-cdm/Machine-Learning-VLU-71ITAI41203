@@ -22,7 +22,7 @@ KNN cơ bản:
 
 
 
-# Câu 2: KNN_BT1
+# Câu 2: KNN_BT1 (Chạy streamlit với file KNN_BT1.py)
 
 1. Công Nghệ Sử Dụng
 - NumPy
@@ -41,8 +41,11 @@ KNN được sử dụng:
 
 <img width="804" alt="Screenshot 2024-10-06 at 21 12 18" src="https://github.com/user-attachments/assets/2d770d55-c1bd-478c-b6be-09bcc288cb41">
 
+Có xảy ra lỗi ValueError:
+<img width="930" alt="Screenshot 2024-10-06 at 21 32 52" src="https://github.com/user-attachments/assets/92680085-2ab1-4f60-aa45-fd20d8aa33ca">
 
-# Câu 3: KNN_BT2
+
+# Câu 3: KNN_BT2 (Chạy streamlit với file KNN_BT2.py)
 
 1. Công Nghệ Sử Dụng
 - NumPy
