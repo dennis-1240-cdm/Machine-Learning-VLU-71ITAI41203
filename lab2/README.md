@@ -1,5 +1,5 @@
 # LAB 2
-# Câu 1
+# Câu 1 (Chạy streamlit trong file cau1.py)
 1. Công nghệ sử dụng
 -Pandas, Scikit-learn
 
@@ -16,7 +16,7 @@
 Ta thấy được thuật toán Bernoulli Naive Bayes cho ra tỉ lệ là 0.54 trong khi thuật toán Multinomial Naive Bayes là 0.63
 
 
-# Câu 2
+# Câu 2 (Chạy streamlit trong file cau2.py)
 1. Công nghệ sử dụng
 - Pandas, Scikit-learn
 
