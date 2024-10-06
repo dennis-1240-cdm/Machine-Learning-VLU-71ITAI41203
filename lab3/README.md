@@ -10,6 +10,15 @@ KNN cơ bản:
 - Khoảng cách Euclid: Được tính giữa mỗi điểm trong tập ktra và giá trị trung bình của Lớp train.
 
 3. Kết quả
+<img width="799" alt="Screenshot 2024-10-06 at 20 58 24" src="https://github.com/user-attachments/assets/d5fffabf-dbde-47c1-b1ff-79c1d5dd6e05">
+
+<img width="416" alt="Screenshot 2024-10-06 at 20 58 48" src="https://github.com/user-attachments/assets/8dea597a-a8dd-4227-b905-75ffad6155f9">
+
+<img width="444" alt="Screenshot 2024-10-06 at 21 00 26" src="https://github.com/user-attachments/assets/c060a728-7842-4095-9097-989746c50d9e">
+
+<img width="284" alt="Screenshot 2024-10-06 at 21 02 40" src="https://github.com/user-attachments/assets/33888c1d-eeb3-4bf0-89ad-e57394dec18e">
+
+<img width="284" alt="Screenshot 2024-10-06 at 21 02 56" src="https://github.com/user-attachments/assets/c0232ead-f7af-48dc-ad73-8b6608aacadb">
 
 
 # Câu 2: KNN_BT1
