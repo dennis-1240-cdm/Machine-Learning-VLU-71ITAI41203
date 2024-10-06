@@ -8,6 +8,7 @@
 - Multinomial Naive Bayes: Cho dữ liệu phân phối đa thức (số lần xuất hiện của từ) dùng xét tần suất xuất hiện của từ trong văn bản.
 
 3. Kết quả
+<img width="949" alt="Screenshot 2024-10-06 at 21 59 30" src="https://github.com/user-attachments/assets/b94e382b-28ab-43aa-86bb-a0071179e079">
 
 
 4 So sánh 2 kết quả
