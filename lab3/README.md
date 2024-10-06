@@ -1,4 +1,4 @@
-# Câu 1: Centroid_practice ()
+# Câu 1: Centroid_practice (Chạy streamlit với file Centroid.py)
 1. Công Nghệ Sử Dụng
 - NumPy
 - Pandas
