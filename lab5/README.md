@@ -1,4 +1,5 @@
-# Bài 1:(Chạy file steamlit app1.py)
+# Bài 1:
+(Chạy file steamlit app1.py)
 # Công nghệ sử dụng:
 - numpy
 - matplotlib
@@ -15,7 +16,8 @@
 <img width="488" alt="Screenshot 2024-10-18 at 21 51 38" src="https://github.com/user-attachments/assets/1591792a-7874-44d7-b558-0e5d9a2e8fd8">
 
 
-# Bài 2:(Chạy file steamlit app2.py)
+# Bài 2:
+(Chạy file steamlit app2.py)
 #Công nghệ sử dụng:
 - numpy
 - matplotlib
