@@ -34,4 +34,4 @@
 # Kết quả 
 <img width="620" alt="Screenshot 2024-10-18 at 21 54 29" src="https://github.com/user-attachments/assets/43c65c5a-3081-4cc4-b3b8-924630586ebc">
 
-# Lưu ý: (giá trị C có thể thay đổi để xem được các đường biên dương âm và margin
+# Lưu ý: (giá trị C có thể thay đổi để xem được các đường biên dương âm và margin và giá trị C không được nhỏ hơn 0)
