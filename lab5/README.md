@@ -22,7 +22,6 @@
 - numpy
 - matplotlib
 - cvxopt (Quadratic Programming - QP)
-- 
 # Thuật toán:
 - Sử dụng SVM với các bước sau đây:
 1. Sử dụng QP từ thư viện cvxopt để tìm các giá trị λ tối ưu
