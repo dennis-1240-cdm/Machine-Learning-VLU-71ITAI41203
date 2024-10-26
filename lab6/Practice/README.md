@@ -3,14 +3,14 @@ PyTorch, streamlit(Để tạo web show kết quả)
 
 # Thuật Toán
 - Cross Entropy Loss: sử dụng để tính phân loại có nhiều lớp
-- Cross Entropy Loss =<img width="258" alt="Screenshot 2024-10-26 at 20 55 24" src="https://github.com/user-attachments/assets/4ded960b-78dd-4ba5-881a-048efd6146ea">
+- Cross Entropy Loss =  <img width="258" alt="Screenshot 2024-10-26 at 20 55 24" src="https://github.com/user-attachments/assets/4ded960b-78dd-4ba5-881a-048efd6146ea">
 
 
 - Mean Square Error: Hàm tính Hồi quy
-- Mean Square Error = <img width="281" alt="Screenshot 2024-10-26 at 20 51 56" src="https://github.com/user-attachments/assets/dd2d911b-fc1f-4c60-8bba-665f033531d9">
+- Mean Square Error =  <img width="281" alt="Screenshot 2024-10-26 at 20 51 56" src="https://github.com/user-attachments/assets/dd2d911b-fc1f-4c60-8bba-665f033531d9">
 
 - Binary Cross Entropy Loss: Phân loại nhị phân
-- Binary Cross Entropy Loss = <img width="773" alt="Screenshot 2024-10-26 at 20 54 31" src="https://github.com/user-attachments/assets/11b72ffb-13c5-4076-af01-a8093bf85ce0">
+- Binary Cross Entropy Loss =  <img width="773" alt="Screenshot 2024-10-26 at 20 54 31" src="https://github.com/user-attachments/assets/11b72ffb-13c5-4076-af01-a8093bf85ce0">
 
 - Sigmoid: Xuất ra vị trí khoảng (0, 1)
   
