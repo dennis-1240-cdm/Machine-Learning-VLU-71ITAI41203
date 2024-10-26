@@ -5,10 +5,14 @@ PyTorch, streamlit(Để tạo web show kết quả)
 - Cross Entropy Loss: sử dụng để tính phân loại có nhiều lớp
 - Cross Entropy Loss =  <img width="258" alt="Screenshot 2024-10-26 at 20 55 24" src="https://github.com/user-attachments/assets/4ded960b-78dd-4ba5-881a-048efd6146ea">
 
+- Với yc: nhãn thực và pc: giá trị dự đoán
 
 - Mean Square Error: Hàm tính Hồi quy
 - Mean Square Error =  <img width="281" alt="Screenshot 2024-10-26 at 20 51 56" src="https://github.com/user-attachments/assets/dd2d911b-fc1f-4c60-8bba-665f033531d9">
 
+- Đó yi là giá trị thực và y^i
+​	
+  là giá trị dự đoán.
 - Binary Cross Entropy Loss: Phân loại nhị phân
 - Binary Cross Entropy Loss =  <img width="773" alt="Screenshot 2024-10-26 at 20 54 31" src="https://github.com/user-attachments/assets/11b72ffb-13c5-4076-af01-a8093bf85ce0">
 
