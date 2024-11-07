@@ -2,6 +2,7 @@
 - Pytorch
 - Torchvision
 - Matplotlib
+- Numpy
 # Thuật Toán
 - Multilayer Perceptron - MLP: Mô hình sử dụng mạng neural có 2 tầng ẩn với hàm kích hoạt ReLU với các hình ảnh 32x32x3.
 - Backpropagation: Tính toán đạo hàm của hàm mất mát theo từng tham số của mô hình, từ đó giúp điều chỉnh các tham số nhằm giảm thiểu lỗi.
