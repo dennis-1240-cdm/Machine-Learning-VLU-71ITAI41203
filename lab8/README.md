@@ -16,7 +16,7 @@
     
   + Precision (Giá trị dự đoán dương): Được tính bằng công thức Precision = TP / (TP + FP)
     
-  + F1 score: Được tính bằng công thức F1 score = (2*(Precision * Recall)) / (Precision + Recall)
+  + F1 score: Được tính bằng công thức F1 score = (2*( Precision * Recall )) / (Precision + Recall)
 
 - Trong đó:
   + True Negative(TN): Số lượng mẫu thực tế là âm (Negative) và mô hình cũng dự đoán là âm.
