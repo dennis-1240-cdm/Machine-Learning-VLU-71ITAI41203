@@ -7,9 +7,9 @@
 - KNN
 - Confusion Matrix:
 - Các chỉ số đánh giá mô hình:
-- + Accuracy (Độ chính xác):
-- + Recall (Độ nhạy cảm):
-- + Specificity (Độ đặc hiểu):
-- + Precision (Giá trị dự đoán dương):
-- + F1 score:
+  + Accuracy (Độ chính xác):
+  + Recall (Độ nhạy cảm):
+  + Specificity (Độ đặc hiểu):
+  + Precision (Giá trị dự đoán dương):
+  + F1 score:
 # Kết quả
