@@ -15,7 +15,7 @@
 - Dễ bị overfitting nếu bậc đa thức cao
 
 
-#Kết luận: Đối với bộ dữ liệu Digits, ta nên chọn mô hình tùy theo nhu cầu
+# Kết luận: Đối với bộ dữ liệu Digits, ta nên chọn mô hình tùy theo nhu cầu
 - Nếu cần độ chính xác cao nhất: sử dụng kernel RBF
 - Nếu cần tốc độ huấn luyện nhanh: sử dụng kernel linear
 - Kernel polynomial ít khi là lựa chọn tốt nhất cho bài toán này
